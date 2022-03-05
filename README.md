@@ -8,3 +8,4 @@
 neguri/neguri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![neguri0235's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=neguri0235)
